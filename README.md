@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @hamorrar
-  - I am a third year student studying Computer Science and Statistics at UC Santa Cruz.
-- 👀 I’m interested in ...
-  - Statistical and Machine Learning Data Science
-  - Distributed Systems
-- 🌱 I’m currently learning ...
-  - Operating Systems via class assignments modifying Pintos OS (based on 4.4 BSD)
-- 💞️ I’m looking to collaborate on ...
-  - Projects revolving around Machine Learning and more opportunities to learn.
-- 📫 How to reach me ...
-  - Email: hamorrar@ucsc.edu
+Hi, I’m Hilal Morrar. I am a senior undergraduate student at UC Santa Cruz studying Computer Science. 
+
+I am interested in Statistical and Machine Learning Data Science and Distributed Systems.
+
+Currently figuring out a project to combine my interests: a distributed system designed for Machine Learning at home. But first I am revamping my personal website to include a blog to talk about my progress!
 
 <!---
 hamorrar/hamorrar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

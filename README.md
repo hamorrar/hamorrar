@@ -1,6 +1,6 @@
 Hi, I’m Hilal Morrar. I am a senior undergraduate student at UC Santa Cruz studying Computer Science. 
 
-I am interested in Statistical and Machine Learning and Distributed Systems.
+I am interested in Machine Learning and Distributed Systems.
 
 Currently figuring out a project to combine my interests: a distributed system designed for Machine Learning at home. But first I am revamping my personal website to include a blog to talk about my progress!
 

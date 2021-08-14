@@ -2,7 +2,7 @@ Hi, I’m Hilal Morrar. I am a senior undergraduate student at UC Santa Cruz stu
 
 I am interested in Machine Learning and Distributed/Operating Systems.
 
-Currently working on a Distributed Systems project to learn Golang and more about Distributed Systems!
+Currently working on a project to learn Golang and more about Distributed Systems!
 
 <p align="center">
   <br>

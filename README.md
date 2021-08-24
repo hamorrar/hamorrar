@@ -6,8 +6,5 @@ Currently working on a project to learn Golang and more about Distributed System
 
 <p align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hamorrar&count_private=true&show_icons=true&theme=dark">
-  <br>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamorrar&langs_count=10&theme=dark">
 </p>

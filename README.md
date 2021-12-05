@@ -2,10 +2,9 @@ Hi, I’m Hilal Morrar. I am a senior undergraduate student at UC Santa Cruz stu
 
 I am interested in Machine Learning and Distributed/Operating Systems.
 
-Currently working on a few various summer projects:
-1. UCSC Pre-Computer Science Workshop for incoming freshmen.
-2. Applying to graduate school for a Ph.D. in Computer Science and reading relevant research papers. My research interest lies in the intersection of Machine Learning and Systems.
-3. The Unofficial UCSC Student Guide: A comprehensive guide about all aspects of being a student at UCSC.
+Currently working on a few various projects:
+1. Applying to new graduate jobs and internships in Machine Learning and/or Systems, preferably research based.
+2. The Unofficial UCSC Student Guide: A comprehensive guide about all aspects of being a student at UCSC.
 
 <p align="center">
   <br>

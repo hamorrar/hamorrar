@@ -1,4 +1,4 @@
-Hi, I’m Hilal Morrar. I am a senior undergraduate student at UC Santa Cruz studying Computer Science. 
+Hi, I’m Hilal Morrar. I am a new Computer Science graduate from UC Santa Cruz.
 
 I am interested in Machine Learning and Distributed/Operating Systems.
 

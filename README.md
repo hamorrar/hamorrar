@@ -11,7 +11,7 @@ I’m Hilal Morrar. Software Engineer and Photographer.
 
 ### Currently working on the following project(s):
 1. Reviewing recent literature in Machine Learning and Systems research
-1. Building an pperating system in Rust to learn the programming language
+1. Building an operating system in Rust to learn the programming language
 1. Reiterating over a distributed systems project in Go
 
 ---

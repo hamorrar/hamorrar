@@ -4,7 +4,6 @@ I’m Hilal Morrar. Software Engineer and Photographer.
 [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/hamorrar/resume/blob/main/Hilal-Morrar-Resume.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilal-morrar/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilalmorrar@gmail.com)
-[![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)](https://www.doubledip.dev/)
 [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://hilalmorrar.com/)
 
 ---
